@@ -11,7 +11,7 @@ public class AnimalTest {
 
     @ParameterizedTest
     public void changePrimitive(int toChange) {
-        String fds = "fds";
+        String fds = "fdsw";
         assertEquals("fds", fds);
     }
 }
